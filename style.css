@@ -1,0 +1,11 @@
+body {
+  
+  background-image: url(képek/hatter.png);
+  background-repeat: round;
+}
+
+h1 {
+  color: aliceblue;
+  text-align: center;
+  text-decoration: underline;
+}
